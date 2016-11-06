@@ -1,0 +1,3 @@
+# Image-Project
+Image processing with filters (sobel ...), resize, ...
+Open Image.pro file with qt creator
